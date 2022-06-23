@@ -16,12 +16,18 @@ A continuación entraremos un poco mas en detalle en cada uno de las partes de l
 
 Si tienes interes en ver como se ve la aplicación, en el apartado de Ionic tendras algunas capturas 😋
 
+[Video explicativo viejo](https://youtu.be/1iAtNJ4QBck)
+
+[Video explicativo actualizado](https://youtu.be/1iAtNJ4QBck)
+
 En la version actual del proyecto nos encontramos con las siguientes partes
 | x | Ionic | Angular | Api REST |Static Web
 |--|:--:|:--:|:--:|--|
-| Enlaces |  Ionic | Angular | Api REST | Static Web
+| Enlaces |  [Ionic](https://github.com/MarcosMoralesAragon/dremTeam-Ionic/tree/main/dreamTeam) | [Angular](https://github.com/MarcosMoralesAragon/dreamTeam-Web/tree/main/dreamTeam-angular) | [Api REST](https://github.com/MarcosMoralesAragon/dreamTeam-ApiRest) | [Static Web](https://github.com/MarcosMoralesAragon/dreamTeam-Web/tree/main/static-Web)
 | Version | `13.2.6` | `13.1.4` | `Python 3.9.13` |
 | Librerias | Ng-charts | Angular Material y Primeng | Fast api y pyrebase
+
+![navigation](/capturas/app-work.png)
 
 ## Ionic
 
@@ -37,15 +43,37 @@ La aplicación es dependiente de la Api REST
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | | `7` | `2` | `4` | `4` | `5`
 
-Mapa de navegación
+![navigation](/capturas/ionic/navigation.png)
 
-Capturas
+> Home 
 
+![navigation](/capturas/ionic/login.png)
+![navigation](/capturas/ionic/register.png)
+
+> List
+
+![navigation](/capturas/ionic/league-list.png)
+
+> Create
+
+![navigation](/capturas/ionic/create-jugador.png)
+![navigation](/capturas/ionic/create-match.png)
+
+> Partido
+
+![navigation](/capturas/ionic/game.png)
+
+> Estadisticas (Antes de añadir este ultimo partido de muestra para las capturas y despues )
+
+![navigation](/capturas/ionic/estadisticas.png)
+![navigation](/capturas/ionic/estadisticas-2.png)
 ## Angular
 
 En angular podremos encontrar una pequeña vista de admin que nos permite ver a todos los jugadores de todas las ligas y ver en unas graficas para ver su desempeño. Su valor es analitico, ya que permite una vista rapida, sencilla y compacta de la información de la aplicación
 
-Capturas
+![navigation](/capturas/angular/home.png)
+![navigation](/capturas/angular/open.png)
+
 
 ## Api Rest con Fast Api
 
@@ -69,5 +97,9 @@ A continuación se listan sus 12 endpoints. Para una explicación más en profun
 
 ## Static - Web
 
-Capturas
+![navigation](/capturas/static-web/Home.png)
+![navigation](/capturas/static-web/Dream team.png)
+![navigation](/capturas/static-web/download.png)
+
+
 
