@@ -54,7 +54,7 @@ El cerebro pensante de la aplicación. Esta parte gestiona toda la lógica y las
 A continuación se listan sus 12 endpoints. Para una explicación más en profundidad de los parametros que tienen que ser mandados, pongase en contacto conmigo
 
 | Tipo | Url |
-|:--:|:--:|:--:|
+|:--:|:--:|
 | Post | `/registerUser` |
 | Post | `/get` |
 | Post | `/createLeague` |
