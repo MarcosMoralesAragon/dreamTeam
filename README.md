@@ -16,7 +16,7 @@ A continuación entraremos un poco mas en detalle en cada uno de las partes de l
 
 Si tienes interes en ver como se ve la aplicación, en el apartado de Ionic tendras algunas capturas 😋
 
-[Video explicativo viejo](https://youtu.be/1iAtNJ4QBck)
+[Video explicativo viejo](https://youtu.be/9mxImPeOGwI)
 
 [Video explicativo actualizado](https://youtu.be/1iAtNJ4QBck)
 
