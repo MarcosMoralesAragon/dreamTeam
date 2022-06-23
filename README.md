@@ -98,7 +98,7 @@ A continuación se listan sus 12 endpoints. Para una explicación más en profun
 ## Static - Web
 
 ![navigation](/capturas/static-web/Home.png)
-![navigation](/capturas/static-web/Dream team.png)
+![navigation](/capturas/static-web/dream-team.png)
 ![navigation](/capturas/static-web/download.png)
 
 
